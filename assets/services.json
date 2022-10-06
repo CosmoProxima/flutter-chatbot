@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "secret-reactor-338815",
+  "private_key_id": "7b5bd0975bb04efa19896138796e8aa38a7aad8a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCl9h247Zi+RkDW\naL3CbM3//9K7BJjKbctLzV3jaIeTdSov1FjPR4g5LwXxBBZHi83sTIzsm/ntV09t\njjki1Csu5LDTBVZ0gt3yjeKm3lqAvgdQNdT7IveAQqD1ldv9GjZ/6m11fdMCUFt+\nMqoE3ldJYsM+RlYxEn5l1s1oEJQjKOMCAQdQotOOsbBhkhggYwQ8pDI5hUyjiIZv\nYoM0qVb7PTVeo2gzjN8389OKIDDtU10Qoq2faeEInpLEkj7SFCVrmyGg1meQcmW7\nt0CXVGnO+h7Q8Re1LnobBG5GC3BbQrlTPk8+fpfwglGtmkG0hlEtFH+lxCAp4b2A\nVpY7Vu6lAgMBAAECgf99AucffQOtXh1vnExrgDrfQqrblsAVzi7JD9/OcXD9q4Ug\nSkhHrC9Eas7uV0+tfb3OQT01NYUywHXqPu0VdGiZ3CxaouctqTe031EFSgjY6ApZ\nEfvVhDbhrC4w4jhtMmjfw2KdqaeAanvGgSbf0xSd1b3j0oKz+zD5vSfALcFx0K7p\nvpVe89iCYE4Hova/j5QUeU7gevlSuqicYP5PZtXEaP6/Qbvv6+JdLvEMp0YzxDgA\nRMeOEuLaK1VaU4fH9fn8SEmHVN3RRPvmHRy5QUwqxVXKNfC00zlC2DggWx9ECqo0\n+RJiol55doaC6jKvc+uivO3CXkaVffzt9gMv6cECgYEA3cMywmpM9DRZ6aG7TZsP\nPbVmbp9ZwYQ36aHyBPI1DTsfwvBSKFQdulKn9UJ+3q8pScXc2CKl7xp+zP6AVJmb\nxCkNeDVrlBMoktbW3XapELxfqUB45kQQST9yomxAYX35G/r7bQ8zbIxlG0yzIk1M\nAI8xKwy5pf92YJm1XpdTWMkCgYEAv5V4VTt67NwyS+5PBvsMVHMW8Whj4oTLyPsh\nOIFczYhxWZP5nrEpYhEcwcdGVBmXMkFKnWKUAIjwgbajsK34VvPDdr2m+5Om8YrJ\ng7YruuuBukl7NNvZyDqUasj0RLXAH8phYpP/lXmT8Z8NFxmI7By/lQMFBicnvkpJ\nsz5+sP0CgYEAh0sieaf+wPH7dOT976/NEZnNH2pKiRyQPBJYJBpcsXDDxNt3VDFV\nXao13BSwcE0vBFoZjSc+Uuy4NXqDcpmwhXGCTTdSJam2lDdMKRrOtG4ocorp95nI\n0ddKqbsfYBtJ0n9By1x9xBi3Snt1wlSkLKcvmRMPZC3B29eK5mWuLLkCgYBhZ3UO\noHcXBbzsrfSv7+OM7Ba2FgTyneGeBVAWkm7EcKJwkLNQ43HO0jR0sQQorfoZKujs\nq7njq7vbtyfyJAEm9DhknnfPYHp4Q7/An1YMasBCHint7fkDvATJZfILHPzZLOPm\nYqiHLpDxP5RAMlNS+CrPcAGV50JllQ9zekqfYQKBgQCqlQMGuEkqHqKQjWZOdRtZ\nWTn69WbsczSiFvtWR2YH8CbYQ4L+qzcCCTYr45bTGf7ffmxcStWlnvsWsKWMD0sF\naUWLDMgnwV1+BKToBjgMgUri8yQJcDJb9XW/CJnmTeQu4ps9oEbEVFBNVi4UiHtL\nDw5YjMmlQG3lPTx1ry/RjQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "dialogflow-integration@secret-reactor-338815.iam.gserviceaccount.com",
+  "client_id": "104769677437790265300",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dialogflow-integration%40secret-reactor-338815.iam.gserviceaccount.com"
+}
